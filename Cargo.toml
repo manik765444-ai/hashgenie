@@ -1,0 +1,12 @@
+[package]
+name = "hashgenie"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+sha2 = "0.10"
+md5 = "0.7"
+digest = "0.10"
+
+[features]
+default = []
